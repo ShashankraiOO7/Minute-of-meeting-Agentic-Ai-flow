@@ -1,0 +1,8 @@
+2025-06-19 12:16:51,537 - WARNING - Error reading package version: No package metadata was found for agentops
+2025-06-19 12:16:51,560 - WARNING - Error reading package version: No package metadata was found for agentops
+2025-06-19 12:16:51,565 - WARNING - Error reading package version: No package metadata was found for agentops
+2025-06-19 12:16:59,270 - ERROR - Error instrumenting concurrent.futures: No module named 'agentops.instrumentation.concurrent_futures'
+2025-06-19 12:16:59,273 - ERROR - Error instrumenting concurrent.futures: No module named 'agentops.instrumentation.concurrent_futures'
+2025-06-19 12:16:59,279 - ERROR - Error instrumenting concurrent.futures: No module named 'agentops.instrumentation.concurrent_futures'
+2025-06-19 12:18:36,943 - WARNING - start_session() is deprecated and will be removed in v4 in the future. Use agentops.start_trace() instead.
+2025-06-19 12:18:37,013 - INFO - Session Replay for session trace: https://app.agentops.ai/sessions?trace_id=1a9eed858d22add5730ffc7555eb1da5
