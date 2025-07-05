@@ -1,5 +1,4 @@
 
-```markdown
 # 🧠 Automated Meeting Minutes Generator with CrewAI + Gemini Pro
 
 This project is an **AI-driven workflow** that listens to a `.wav` audio file of a meeting, transcribes it, summarizes the conversation (including sentiment and action items), and creates a **Gmail draft** with the compiled meeting minutes using **CrewAI** agents and **Gemini 1.5 Pro**.
@@ -225,6 +224,6 @@ I can also generate a DOCX/PDF version of this `README.md` if needed.
 
 ---
 
-_Interested in contributing? Feel free to fork the repo, raise issues, or submit a pull request!_
+Interested in contributing? Feel free to fork the repo, raise issues, or submit a pull request!_
 
 
