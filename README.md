@@ -204,8 +204,6 @@ Let me know if you'd like:
 - A `requirements.txt` file
 - Shields/badges for GitHub Actions, PyPI, etc.
 - A GitHub Actions workflow for deployment or CI/CD
-
-I can also generate a DOCX/PDF version of this `README.md` if needed.
 ```
 
 
